@@ -8,8 +8,8 @@ I am passionate about web development and fascinated by the ever-evolving world 
 
 * 🌍  I'm based in Quito
 * ✉️  You can contact me at [kevincardenas.dev@gmail.com](mailto:kevincardenas.dev@gmail.com)
-* 🧠  I'm learning TypeScript, NextJS
-* 🤝  I'm open to collaborating on web and desktop applications
+* 🧠  I'm learning TypeScript, NextJS and AWS
+* 🤝  I'm open to collaborating on web applications
 * ⚡  I practice yoga and play video games
 
 ### Skills
@@ -75,10 +75,10 @@ I am passionate about web development and fascinated by the ever-evolving world 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/r4venkorp"><img src="https://github-readme-stats.vercel.app/api?username=r4venkorp&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="r4venkorp's GitHub stats" /></a>
+<a href="http://www.github.com/r4vendev"><img src="https://github-readme-stats.vercel.app/api?username=r4vendev&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="r4vendev's GitHub stats" /></a>
 
-<a href="http://www.github.com/r4venkorp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r4venkorp&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/r4vendev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r4vendev&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/r4venkorp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4venkorp&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/r4vendev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4vendev&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://raw.githubusercontent.com/r4venkorp/r4venkorp/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/r4vendev/r4vendev/output/snake.svg" alt="Snake animation" />
